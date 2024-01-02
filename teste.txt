@@ -1,2 +1,6 @@
 aprendendo sobre GIT
+<<<<<<< HEAD
 nova linha
+=======
+Sou uma nova linha
+>>>>>>> e4cc1db54e68e83746455261c40451c1f705b167
